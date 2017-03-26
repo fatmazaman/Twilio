@@ -10,7 +10,7 @@ So we've all used our phones to send out text messages. But sometimes there is a
 
 *************************************************************************************************************************************************
 
-Now our goal is to send a text message using code, and I know of a Python packagethat does exactly that. It's called twilio
+Now our goal is to send a text message using code, and I know of a Python package that does exactly that. It's called twilio
 
 *************************************************************************************************************************************************
 
@@ -28,9 +28,9 @@ What is an Instance of a class?
 A particular Instance of a class is called OBJECT(ex:DOG).
                         DOG ---- Create Instance -----> OBJECT(Tyson)
 
-          |--> State (set the values of the attributes of a particular object is called as State(color of DOG))
-          |--> Identity(Name of the DOG : eg; Tyson)
-          |--> Behavior(Eat, Bark, Run)
+          |* State (set the values of the attributes of a particular object is called as State(color of DOG))
+          |* Identity(Name of the DOG : eg; Tyson)
+          |* Behavior(Eat, Bark, Run)
 
 FYI: Object get memory in heap area!
 *************************************************************************************************************************************************
